@@ -1,0 +1,33 @@
+ p {
+ color: blue;
+ text-shadow: 1px 1px 2px black, 0 0 1em red; 
+}
+
+table {
+  background: orange;
+    color: black;
+  border: 5px solid: red;
+}
+
+div{
+	width: 300px; 
+    background: #ccc;
+    padding: 5px;
+    padding-right: 40px; 
+    border: solid 3px black; 
+    float: left
+}
+div{
+	width: 200px; 
+    background: #fc0; 
+    padding: 5px; 
+    border: solid 3px black; 
+    position: relative; 
+    top: 40px; 
+    left: -70px
+
+}
+
+a{
+	color: blue
+}
